@@ -1,8 +1,2 @@
 def words():
     print('words')
-
-    
-    
-    
-    
-    
