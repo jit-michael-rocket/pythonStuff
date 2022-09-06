@@ -1,8 +1,3 @@
 def words():
     print('words')
-
-    
-    
-    
-    
     
